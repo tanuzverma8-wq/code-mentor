@@ -1,0 +1,6 @@
+{
+  "name": "CodeMentor AI",
+  "description": "Learn, Don't Just Copy — AI-powered debugger, Hinglish explainer, test case generator, sandboxed runner, and practice arena for engineering students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
